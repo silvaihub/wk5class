@@ -1,0 +1,16 @@
+body{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+
+}
+.block {
+    background-color: cornsilk;
+
+    
+
+}
+form div input {
+    width:100% ;
+    height: auto;
+}
